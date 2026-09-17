@@ -1,0 +1,44 @@
+{
+ "note": "parts are consecutive byte ranges; run reassemble_split_files.py",
+ "files": [
+  {
+   "path": "test_images.npy",
+   "size": 774144128,
+   "sha256": "ce019776dd1f82514c05984411fc11f2d61b72997fb1a22fd002d509e0f16acc",
+   "parts": [
+    "test_images.npy.part000",
+    "test_images.npy.part001",
+    "test_images.npy.part002",
+    "test_images.npy.part003",
+    "test_images.npy.part004",
+    "test_images.npy.part005",
+    "test_images.npy.part006",
+    "test_images.npy.part007",
+    "test_images.npy.part008"
+   ]
+  },
+  {
+   "path": "train_images.npy",
+   "size": 1437696128,
+   "sha256": "2a3e37e9f6b4cc888fd76e156e6113b0f7a7eedd146da6e656fb5b891cfdff4f",
+   "parts": [
+    "train_images.npy.part000",
+    "train_images.npy.part001",
+    "train_images.npy.part002",
+    "train_images.npy.part003",
+    "train_images.npy.part004",
+    "train_images.npy.part005",
+    "train_images.npy.part006",
+    "train_images.npy.part007",
+    "train_images.npy.part008",
+    "train_images.npy.part009",
+    "train_images.npy.part010",
+    "train_images.npy.part011",
+    "train_images.npy.part012",
+    "train_images.npy.part013",
+    "train_images.npy.part014",
+    "train_images.npy.part015"
+   ]
+  }
+ ]
+}
